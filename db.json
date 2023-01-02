@@ -1,0 +1,86 @@
+[
+      {      
+        "id": 1,
+        "name": "Product1",
+        "category": "Smartphones",
+        "price": 9.99,
+        "image": "product1.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Product2",
+        "category": "Laptops",
+        "price": 19.99,
+        "image": "product2.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Product3",
+        "category": "Smartphones",
+        "price": 29.99,
+        "image": "product3.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Product4",
+        "category": "Vêtements",
+        "price": 29.99,
+        "image": "product4.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Product5",
+        "category": "Smartphones",
+        "price": 29.99,
+        "image": "product5.jpeg"
+      },
+      {
+        "id": 6,
+        "name": "Product6",
+        "category": "Maquillage",
+        "price": 29.99,
+        "image": "product6.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Product7",
+        "category": "Laptops",
+        "price": 29.99,
+        "image": "product7.jpeg"
+      },
+      {
+        "id": 8,
+        "name": "Product8",
+        "category": "Vêtements",
+        "price": 29.99,
+        "image": "product8.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Product9",
+        "category": "Maquillage",
+        "price": 29.99,
+        "image": "product9.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Product10",
+        "category": "Laptops",
+        "price": 29.99,
+        "image": "product10.jpeg"
+      },
+      {
+        "id": 11,
+        "name": "Product11",
+        "category": "Vêtements",
+        "price": 29.99,
+        "image": "product11.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Product12",
+        "category": "Vêtements",
+        "price": 29.99,
+        "image": "product12.jpg"
+      }
+    ]
